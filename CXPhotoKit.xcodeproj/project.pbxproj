@@ -542,7 +542,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = CBD.CXPhotoKit;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = /Users/allen/Desktop/CXPhotoKit/KIt/head.h;
+				SWIFT_OBJC_BRIDGING_HEADER = /Users/allen/Documents/CXPhotoKit/KIt/head.h;
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
@@ -555,7 +555,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = CBD.CXPhotoKit;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = /Users/allen/Desktop/CXPhotoKit/KIt/head.h;
+				SWIFT_OBJC_BRIDGING_HEADER = /Users/allen/Documents/CXPhotoKit/KIt/head.h;
 				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
@@ -633,6 +633,7 @@
 				9FEC1E5B1E656ADE00F3A551 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9FEC1E5C1E656ADE00F3A551 /* Build configuration list for PBXNativeTarget "CXPhotoKitTests" */ = {
 			isa = XCConfigurationList;
@@ -641,6 +642,7 @@
 				9FEC1E5E1E656ADE00F3A551 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9FEC1E5F1E656ADE00F3A551 /* Build configuration list for PBXNativeTarget "CXPhotoKitUITests" */ = {
 			isa = XCConfigurationList;
@@ -649,6 +651,7 @@
 				9FEC1E611E656ADE00F3A551 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

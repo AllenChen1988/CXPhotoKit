@@ -126,6 +126,8 @@ class CXShowViewController: UIViewController,UICollectionViewDelegate, UICollect
         let index:NSInteger = clickImageView.tag
         
         if(index == self.imageDataSource.count){
+            self.imageDataSource.removeAllObjects()
+            self.selectArry.removeAllObjects()
             self.photoListDidClick()
         }else{
             
